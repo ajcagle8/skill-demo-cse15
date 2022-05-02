@@ -5,6 +5,6 @@ public class SkillDemoTester {
     
     @Test
     public void factorialTester() {
-        assertEquals(120, SkillDemo.factorial(4));
+        assertEquals(120, SkillDemo.factorial(5));
     }
 }
